@@ -1,0 +1,5 @@
+name: network
+
+dependencies:
+  - python >= 3.9
+  - pip

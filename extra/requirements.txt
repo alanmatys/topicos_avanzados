@@ -1,0 +1,7 @@
+pip
+pandas
+networkx
+nxviz
+scipy
+tabulate
+seaborn

@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+networkx
+seaborn
+nxviz
+nltk
+tqdm
+gensim
+node2vec
+pyproject-toml
+pacmap
